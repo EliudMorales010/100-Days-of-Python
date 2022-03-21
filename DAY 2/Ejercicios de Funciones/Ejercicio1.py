@@ -1,4 +1,5 @@
-# Definimos una funcion
+# Definir una funcion
+
 def miFuncion():
     print("Hello")
     print("Bye")
@@ -6,8 +7,7 @@ def miFuncion():
 # Llamamos a la funcion
 miFuncion()
 
-# Dirigirse a esta pagina web para practicar:
+# Ingresar a la siguiente pagina para practicar el juego:
 '''
 https://reeborg.ca/reeborg.html?
-
 '''
